@@ -1,0 +1,5 @@
+{
+  "_comment": "Cada box revisa esto al encender y cada 6 h. Si versionCode > el instalado, baja la url e instala. Subir el APK a apks/ y subir el numero aca.",
+  "inicio": { "versionCode": 1,     "url": "apks/Inicio.apk" },
+  "xuper":  { "versionCode": 43501, "url": "apks/XuperTV.apk" }
+}
